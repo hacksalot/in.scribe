@@ -1,0 +1,28 @@
+{
+  "name": "in.scribe",
+  "main": "in.scribe.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/devlinjd/in.scribe",
+  "authors": [
+    "James Devlin <james@indevious.com>"
+  ],
+  "description": "Rasterize text and markup to canvas.",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "rasterize",
+    "HTML",
+    "markup",
+    "Markdown"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
