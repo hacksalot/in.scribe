@@ -1,0 +1,10 @@
+{
+  "name": "in.scribe",
+  "version": "0.1.0",
+  "description": "Rasterize formatted text, markup, and HTML content.",
+  "main": "in.scribe.js",
+  "repository": "https://github.com/hacksalot/in.scribe.git",
+  "author": "James Devlin <hacksalot@indevious.com> (https://deskchained.com)",
+  "license": "MIT",
+  "private": true
+}
